@@ -1,0 +1,15 @@
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.csproj.AssemblyReference.cache
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.AssemblyInfoInputs.cache
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.AssemblyInfo.cs
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.csproj.CoreCompileInputs.cache
+/Users/gulia/Desktop/lesson1/task5_6_7/bin/Debug/net6.0/task5_6_7
+/Users/gulia/Desktop/lesson1/task5_6_7/bin/Debug/net6.0/task5_6_7.deps.json
+/Users/gulia/Desktop/lesson1/task5_6_7/bin/Debug/net6.0/task5_6_7.runtimeconfig.json
+/Users/gulia/Desktop/lesson1/task5_6_7/bin/Debug/net6.0/task5_6_7.dll
+/Users/gulia/Desktop/lesson1/task5_6_7/bin/Debug/net6.0/task5_6_7.pdb
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.dll
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/refint/task5_6_7.dll
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.pdb
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/task5_6_7.genruntimeconfig.cache
+/Users/gulia/Desktop/lesson1/task5_6_7/obj/Debug/net6.0/ref/task5_6_7.dll
