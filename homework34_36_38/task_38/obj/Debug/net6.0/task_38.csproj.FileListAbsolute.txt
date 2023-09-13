@@ -1,0 +1,15 @@
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.csproj.AssemblyReference.cache
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.AssemblyInfoInputs.cache
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.AssemblyInfo.cs
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.csproj.CoreCompileInputs.cache
+/Users/gulia/Desktop/lesson1/task_38/bin/Debug/net6.0/task_38
+/Users/gulia/Desktop/lesson1/task_38/bin/Debug/net6.0/task_38.deps.json
+/Users/gulia/Desktop/lesson1/task_38/bin/Debug/net6.0/task_38.runtimeconfig.json
+/Users/gulia/Desktop/lesson1/task_38/bin/Debug/net6.0/task_38.dll
+/Users/gulia/Desktop/lesson1/task_38/bin/Debug/net6.0/task_38.pdb
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.dll
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/refint/task_38.dll
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.pdb
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/task_38.genruntimeconfig.cache
+/Users/gulia/Desktop/lesson1/task_38/obj/Debug/net6.0/ref/task_38.dll
